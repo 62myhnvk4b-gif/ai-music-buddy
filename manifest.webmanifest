@@ -1,0 +1,11 @@
+{
+  "name": "AI Music Buddy",
+  "short_name": "Music Buddy",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100d20",
+  "theme_color": "#17132f",
+  "description": "A personal music player with saved local songs and text commands.",
+  "icons": []
+}
